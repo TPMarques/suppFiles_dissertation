@@ -1,2 +1,2 @@
-# suppFiles_dissertation
+# suppFilesdissertation
 Supplementary files from master dissertation.
